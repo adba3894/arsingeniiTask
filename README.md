@@ -8,4 +8,4 @@
 6) Enjoy the results :)
 
 
-Note: BUGS are described in "Test Cases.rtf" file 
+Note: bugs and test cases are described in "Test Cases.rtf" file 
